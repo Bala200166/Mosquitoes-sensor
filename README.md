@@ -24,10 +24,10 @@ Two main approaches are studied:
 ---
 ## 📸 Prototype Images
 
-Motor and PCB (front view):  
+(Back view):  
 ![Test1](testimage1.jpg)
 
-Backside wiring with motor and potentiometer:  
+Frontside wiring with motor and potentiometer:  
 ![Test2](testimage2.jpg)
 ## Software & Tools
 - **Embedded C** for microcontroller firmware
