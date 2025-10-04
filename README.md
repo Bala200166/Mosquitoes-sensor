@@ -28,7 +28,7 @@ Two main approaches are studied:
 ![Test1](testimage1.jpg)
 
 Frontside wiring with motor and potentiometer:  
-![Test2](testimage2.jpg)
+![Test2](2ndtestimage.jpg)
 ## Software & Tools
 - **Embedded C** for microcontroller firmware
 - **MATLAB/Simulink** for signal processing & visualization
