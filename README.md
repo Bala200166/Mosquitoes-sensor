@@ -40,5 +40,3 @@ Two main approaches are studied:
 
 ---
 
-## 📂 Repository Structure
-
