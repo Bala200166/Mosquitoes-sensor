@@ -22,7 +22,13 @@ Two main approaches are studied:
 - Power supply (low voltage, low consumption)
 
 ---
+## 📸 Prototype Images
 
+Motor and PCB (front view):  
+![Test1](testimage1.jpg)
+
+Backside wiring with motor and potentiometer:  
+![Test2](testimage2.jpg)
 ## Software & Tools
 - **Embedded C** for microcontroller firmware
 - **MATLAB/Simulink** for signal processing & visualization
