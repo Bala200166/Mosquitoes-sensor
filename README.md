@@ -17,7 +17,7 @@ Two main approaches are studied:
 - DC motor with custom wing attachment (to simulate mosquito wing flapping)
 - Potentiometer (motor speed control)
 - IR emitter and photodiode / photoelectric sensor
-- Optional: Ultrasonic transducer
+- Optional: Ultrasonic transducter
 - Breadboard / PCB prototype
 - Power supply (low voltage, low consumption)
 
