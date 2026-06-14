@@ -53,7 +53,6 @@ The proposed system is intended to:
 ---
 
 # System Architecture
-
 ![System Architecture](images/system_global_view.jpg)
 
 ## Main Components
