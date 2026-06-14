@@ -54,6 +54,8 @@ The proposed system is intended to:
 
 # System Architecture
 
+![System Architecture](images/system_global_view.jpg)
+
 ## Main Components
 
 * UV LED transmitter
@@ -80,6 +82,8 @@ The proposed system is intended to:
 ---
 
 # First Proof of Concept
+
+![Hardware Prototype](images/Project_hardware_prototype.jpg)
 
 A DC motor with a reflective element was used to simulate mosquito wing motion.
 
@@ -112,6 +116,8 @@ The optical signal showed clear variations corresponding to the simulated wing m
 ---
 
 # Experimental Validation
+
+![Oscilloscope Validation](images/Oscilloscope_validation.jpg)
 
 Oscilloscope measurements confirmed that:
 
@@ -258,6 +264,8 @@ Extend the duration of short detection pulses.
 ---
 
 ## Schmitt Trigger Comparator
+
+![Schmitt Trigger Comparator](images/schmitt_trigger_comparator.jpg)
 
 ### Purpose
 
